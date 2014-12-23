@@ -1,6 +1,6 @@
-# Ember-hammerjs
+# Ember-hammerjs [![Build Status](https://travis-ci.org/sivakumar-kailasam/ember-hammerjs.svg?branch=master)](https://travis-ci.org/sivakumar-kailasam/ember-hammerjs)  [![Code Climate](https://codeclimate.com/github/sivakumar-kailasam/ember-hammerjs/badges/gpa.svg)](https://codeclimate.com/github/sivakumar-kailasam/ember-hammerjs/)
 
-This README outlines the details of collaborating on this Ember addon.
+
 
 ## Installation
 
